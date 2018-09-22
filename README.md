@@ -7,7 +7,7 @@ A collection of data science exercises
 
 ## [Logistic Regression in Tensorflow](https://nbviewer.jupyter.org/github/billwarker/Data-Science-Notebooks/blob/master/Logistic%20Regression%20in%20TF.ipynb)
 - A handmade implementation of Logistic Regression using Tensorflow and NumPy.
-- Trained the algorithm on a toy moons dataset and visualized the classifier's predictions.
+- Trained the classifer on a toy moons dataset and visualized its predictions.
 
 ## [Logistic Regression on the Iris Plants Dataset](https://nbviewer.jupyter.org/github/billwarker/Data-Science-Notebooks/blob/master/Logistic%20Regression%20on%20the%20Iris%20Plants%20Dataset.ipynb)
 - A handmade implementation of Logistic Regression using NumPy.
